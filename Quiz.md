@@ -27,3 +27,6 @@ Investition und Finanzierung finde ich ...
 [(sehr gut)] sehr spannend.
 [(ok)] spannend.
 [(schlecht)] nicht sehr spannend.
+
+# H5P-Test
+<iframe src="https://h5p.org/h5p/embed/1285855" width="800" height="670" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Statische Amortisationsrechnung"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>

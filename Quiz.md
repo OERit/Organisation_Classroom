@@ -25,5 +25,5 @@ Hat dieses Quiz einwandfrei funktioniert?
 Investition und Finanzierung finde ich ...
 
 [(sehr gut)] sehr spannend.
-[(ok)] sehr spannend.
+[(ok)] spannend.
 [(schlecht)] nicht sehr spannend.
